@@ -5,7 +5,7 @@ Descriptions and links to projects I conducted for classes at Harvard College, f
 Description: Using R, built linear models analyzing trends between environmental well-being and population health.  
 Course: STAT 139 (Linear Models).  
 
-**2. MiniML** (Spring 2016)  
+**2. [MiniML](https://github.com/phillipyu/MiniML)** (Spring 2016)  
 Description: Using OCaml, implemented a small Turing-complete OCaml-like language known as MiniML.
 Course: CS 51 (Functional Programming).
 
