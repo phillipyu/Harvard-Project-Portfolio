@@ -6,8 +6,8 @@ Description: Using R, built linear models analyzing trends between environmental
 Course: STAT 139 (Linear Models).  
 
 **2. [MiniML](https://github.com/phillipyu/MiniML)** (Spring 2016)  
-Description: Using OCaml, implemented a small Turing-complete OCaml-like language known as MiniML.
-Course: CS 51 (Functional Programming).
+Description: Using OCaml, implemented a small Turing-complete OCaml-like language known as MiniML.  
+Course: CS 51 (Functional Programming).  
 
 **3. [Harvard Q-Guide](https://github.com/melissayu01/cs50QGuide)** (Fall 2015)  
 Description: Implemented, in Python using the Django framework, a website allowing registered users to view and review different clubs on Harvard’s campus. Two-person team.  
