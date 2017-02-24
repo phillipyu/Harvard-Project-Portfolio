@@ -1,7 +1,7 @@
 # Harvard-Project-Portfolio  
 Descriptions and links to projects I conducted for classes at Harvard College, from 2015 to present.  
 
-**1. Population Health and the Environment** (Fall 2016)  
+**1. [Population Health and the Environment](https://github.com/phillipyu/Harvard-Project-Portfolio/blob/master/final_report.pdf)** (Fall 2016)  
 Description: Using R, built linear models analyzing trends between environmental well-being and population health.  
 Course: STAT 139 (Linear Models).  
 
